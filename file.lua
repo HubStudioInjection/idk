@@ -5,7 +5,6 @@ end
 local TargetPartName = "HumanoidRootPart"
 local GenericHumanoidTargetPartName = TargetPartName	
 local LineColor = Color3.new(255, 255, 255)
-local LineTrans = 0.5
 local TeammateLineColor = Color3.new(0, 0.25, 1)
 local GenericHumanoidLineColor = Color3.new(1, 0, 0) T\
 local LineWidth = 2
